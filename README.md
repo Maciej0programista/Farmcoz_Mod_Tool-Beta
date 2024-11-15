@@ -37,13 +37,13 @@ Narzędzie Farmccoz_Mod_Tool 2.0 wykorzystuje spójną i nowoczesną stylizację
 
 ## Instalacja:
 
-1. Pobierz plik instalacyjny [Link do pobrania].
+1. Pobierz plik instalacyjny https://github.com/Maciej0programista/Farmcoz_Mod_Tool-Beta
 2. Uruchom plik instalacyjny i postępuj zgodnie z instrukcjami.
 
 
 ## Licencja:
 
-[Wskaż licencję, np. MIT, GPL itp.]
+GPL
 
 
 ## Kontakt:
