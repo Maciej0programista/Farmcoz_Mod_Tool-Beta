@@ -31,8 +31,8 @@ Narzędzie Farmccoz_Mod_Tool 2.0 wykorzystuje spójną i nowoczesną stylizację
 
 ## Wymagania:
 
-* System operacyjny Windows [Wskaż minimalną wersję systemu]
-* [.NET Framework] [Wskaż wymaganą wersję .NET Framework lub .NET]
+* System operacyjny Windows [Windows 10]
+* [.NET Framework] [NET 8]
 
 
 ## Instalacja:
@@ -41,11 +41,6 @@ Narzędzie Farmccoz_Mod_Tool 2.0 wykorzystuje spójną i nowoczesną stylizację
 2. Uruchom plik instalacyjny i postępuj zgodnie z instrukcjami.
 
 
-## Licencja:
-
-GPL
-
-
 ## Kontakt:
 
-W przypadku jakichkolwiek pytań lub problemów, skontaktuj się z nami pod adresem [Adres e-mail lub link do forum/strony internetowej].
+W przypadku jakichkolwiek pytań lub problemów, skontaktuj się z nami pod adresem bosyjjakub@gmail.com 
